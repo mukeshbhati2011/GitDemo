@@ -3,7 +3,7 @@
  */
 public with sharing class ChangePasswordController 
 {
-    /* To store old password - Changed 3*/
+    /* To store old password - Changed 5*/
     public String oldPassword {get; set;}
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
