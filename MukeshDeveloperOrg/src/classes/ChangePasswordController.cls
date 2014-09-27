@@ -4,6 +4,7 @@
 public with sharing class ChangePasswordController 
 {
     /* To store old password - Changed 5 - Master File Test changes*/
+    /* Changes in Git repo */
     public String oldPassword {get; set;}
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
